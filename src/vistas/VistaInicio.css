@@ -1,0 +1,87 @@
+.header {
+    background-color: #0073e6;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    border-radius: 2px;
+  }
+  
+  .header h1 {
+    margin: 0;
+  }
+  
+  .nav {
+    display: flex;
+    justify-content: center;
+    background-color: #005bb5;
+  }
+  
+  .nav a {
+    color: #fff;
+    padding: 14px 20px;
+    text-decoration: none;
+    text-align: center;
+  }
+  
+  .nav a:hover {
+    background-color: #003d80;
+  }
+  
+  .container {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    color: #0073e6;
+  }
+  
+  .services ul,
+  .why-us ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .services ul li,
+  .why-us ul li {
+    background: #f9f9f9;
+    margin: 10px 0;
+    padding: 10px;
+    border-left: 5px solid #0073e6;
+  }
+  
+  .contact-form input,
+  .contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+  }
+  
+  .contact-form button {
+    background-color: #0073e6;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .contact-form button:hover {
+    background-color: #005bb5;
+  }
+  
+  .footer {
+    background-color: #0073e6;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
+  .social a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #0073e6;
+  }
